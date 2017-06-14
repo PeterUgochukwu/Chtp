@@ -17,7 +17,7 @@ public class Arithmetic{
     int difference;
     int division;
     
-    //read in firstNumber, secondNumber, thirdNumber from user as a string
+    //read in firstNumber, secondNumber from user as a string
     firstNumber = JOptionPane.showInputDialog("Enter first integer" );
     secondNumber = JOptionPane.showInputDialog("Enter second integer");
     
