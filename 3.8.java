@@ -1,3 +1,5 @@
+//Java how to program 5th edition chapter 3 exercise 3.8 solution
+
 //import java packages
 import java.awt.Graphics;
 import javax.swing.*;
