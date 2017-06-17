@@ -44,7 +44,7 @@ public class ArithmeticApplet extends JApplet {
 		//draw rectangle starting from (15,10) at (270 pixels wide, 80 pixels tall
 		g.drawRect(15, 10, 270, 80);
 		
-		//draw results as a String at (25,25)
+		//draw results as a String at (25,25, 40, 55, 70)
 		g.drawString("The sum is: " + sum,25, 25);
 		g.drawString("The product is: "+product, 25,40);
 		g.drawString("The difference is: " + difference, 25, 55);
