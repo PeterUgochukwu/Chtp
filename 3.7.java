@@ -1,3 +1,5 @@
+//Java how to program 5th edition chapter 3 exercise 3.7 solution
+//Arithmetics
 //import java packages
 import java.awt.Graphics;
 import javax.swing.*;
