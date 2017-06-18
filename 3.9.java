@@ -31,7 +31,7 @@ public class Arithmetic2 extends JApplet {
 		    number2 = Double.parseDouble(secondNumber);
 		    number3 = Double.parseDouble(thirdNumber);
 		    
-		  //compute
+		  //compute the sum, average and product
 		    sum = number1 + number2 + number3;
 		    average = sum / 3;
 		    product = number1 * number2 * number3;
